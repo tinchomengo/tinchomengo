@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tinchomengo, formally known as Martin Araya Mengo
+- 👋 Hi, I’m @tinchomengo, formally known as Martin Mengo
 
 - 👀 I’m interested in Web Development with native languages (HTML,CSS,JS) and Python.
 
