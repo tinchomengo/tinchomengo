@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tinchomengo, formally known as Martin Mengo
 
-- 👀 I’m interested in Web Development with native languages (HTML,CSS,JS) and Python.
+- 👀 I’m interested in Back-End Development with Python and SQL. Also interested in Front-End Development (HTML, CSS, Js) and soon React.
 
-- 🌱 I’m currently looking forward to finding people from whom I can learn and also teach what I know
-
-- 📫 Linkedin /in/martin-mengo 
+- [Linkedin /in/martin-mengo ](https://www.linkedin.com/in/martinmengo/)
