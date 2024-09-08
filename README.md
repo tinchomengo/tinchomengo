@@ -9,7 +9,7 @@
 
 <h2>About Me</h2>
 <p>
-  Studying <strong>Information Systems Engineering at <a href="https://www.frc.utn.edu.ar/">Universidad Tecnológica Nacional</strong></a>.<br>
+  Studying <strong>Information Systems Engineering at <a href="https://www.frc.utn.edu.ar/">Universidad Tecnológica Nacional</strong></a> and working as a Software Engineer at Novatide Labs.<br>
 </p>
 
 <h2>GitHub Stats</h2>
