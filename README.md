@@ -3,7 +3,6 @@
 <p align=center>
   <a href="https://www.linkedin.com/in/martinmengo/"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin&logoColor=blue"/></a>
   <a href="mailto:tinchomengo@gmail.com"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail&logoColor=red"/></a>
-  <a href="https://www.martinmengo.com/"><img src="https://img.shields.io/badge/My_Website-grey?style=for-the-badge&logo=flathub&logoColor=orange"/></a>
   <a href="https://github.com/tinchomengo"><img src="https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
