@@ -6,7 +6,7 @@
 
 <h2>About Me</h2>
 <p>
-  <strong>Systems Engineer from <a href="https://utn.edu.ar/es/">Universidad Tecnológica Nacional</strong></a> working as a <strong>Software Engineer</strong> at OctaFlow Labs.<br>
+  <strong>Systems Engineer</strong> from <a href="https://utn.edu.ar/es/">Universidad Tecnológica Nacional</strong></a> working as a <strong>Software Engineer</strong> at OctaFlow Labs.<br>
 </p>
 
 <h2>GitHub Stats</h2>
