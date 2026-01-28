@@ -6,7 +6,7 @@
 
 <h2>About Me</h2>
 <p>
-  Studying <strong>Information Systems Engineering at <a href="https://utn.edu.ar/es/">Universidad Tecnológica Nacional</strong></a> and working as a <strong>Software Engineer</strong> at Novatide Labs.<br>
+  Studying <strong>Systems Engineer from <a href="https://utn.edu.ar/es/">Universidad Tecnológica Nacional</strong></a> working as a <strong>Software Engineer</strong> at OctaFlow Labs.<br>
 </p>
 
 <h2>GitHub Stats</h2>
