@@ -6,7 +6,7 @@
 
 <h2>About Me</h2>
 <p>
-  <strong>Systems Engineer</strong> from <a href="https://utn.edu.ar/es/">Universidad Tecnológica Nacional</strong></a> working as a <strong>Software Engineer</strong> at OctaFlow Labs.<br>
+  <strong>Systems Engineer</strong> from <a href="https://utn.edu.ar/es/">Universidad Tecnológica Nacional</strong></a> working as a <strong>Systems Engineer</strong> at OctaFlow.<br>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=blur&height=400&color=272e5e&text=Ad%20Astra&reversal=false&textBg=false&fontColor=FFFFFF&fontAlign=50&fontSize=30">
