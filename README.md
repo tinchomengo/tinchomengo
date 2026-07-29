@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="images/starship.jpg" alt="Starship image" width="1000" />
+  <img src="images/starship.jpg" alt="Starship image" width="1000" height="350" />
 </p>
 
 <h1 align=center>Hello, I’m Martín Mengo</h1>
