@@ -21,4 +21,4 @@
   I believe in doing what is necessary to achieve a greater goal and help humanity expand the scale of consciousness.
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tinchomengo&theme=dark)](https://github.com/tinchomengo)
+[![GitHub Streak](https://tinchomengo-github-stats.vercel.app/?user=tinchomengo&theme=dark)](https://github.com/tinchomengo)
